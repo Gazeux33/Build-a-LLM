@@ -5,7 +5,7 @@ The aim of this project is to create a French Language Model (like a mini GPT) u
 
 ## Architecture
 
-The model is based on the transformer architecture (only the decoder part) from the paper Attention is All You Need by Google Brain (2017)
+The model is based on the transformer architecture from the paper Attention is *All You Need by Google Brain (2017)*
 
 | Technologies   | 
 |----------------|
