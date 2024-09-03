@@ -1,0 +1,16 @@
+# Ignore all .txt files
+*.txt
+
+# Ignore all .pth files
+*.pth
+
+# Ignore all .npy files
+*.npy
+
+# Ignore all .json files
+*.json
+
+*.xz
+
+# Ignore the .idea directory (commonly used by JetBrains IDEs)
+.idea/
